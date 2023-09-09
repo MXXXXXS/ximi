@@ -1,0 +1,27 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Jupyter Lab
+.lab/
+
+# Python virtual environment
+venv/
+env/
+.venv/
+.venv3/
+.venv36/
+.venv37/
+.venv38/
+.venv39/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Other
+.DS_Store1~
